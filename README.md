@@ -1,2 +1,1 @@
-# docker-infracost
-Dockerised Infracost
+# Dockerised Infracost
